@@ -7,3 +7,8 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 2, 3, 0, 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1, 0, 2, 4 }
 
+#define SPLIT_USB_DETECT
+
+#define SPLIT_USB_TIMEOUT 2500
+
+#define USE_SERIAL
